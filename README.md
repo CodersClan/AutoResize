@@ -6,6 +6,13 @@ AutoResize is a jQuery Plugin that matches a textarea to the height of its text 
 It is intended to be used with the latest version of jQuery: <http://code.jquery.com/jquery-latest.js>
 
 Homepage: <http://azoffdesign.com/autoresize>
+
+Support
+-------
+
+If you're having problems with using the project, use the support forum at CodersClan.
+
+<a href="http://codersclan.net/forum/index.php?repo_id=21"><img src="http://www.codersclan.net/graphics/getSupport_blue_big.png" width="160"></a>
  
 License
 -------
